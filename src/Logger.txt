@@ -1,0 +1,105 @@
+Time: 20:21:39
+WriterThread-1 Tries to book the seat 3 successfully
+
+Time: 20:21:39
+ReaderThread-1 Seat No 1: 0 Seat No 2: 0 Seat No 3: 0 Seat No 4: 0 Seat No 5: 0
+-------------------------------------------------------------------------------
+
+Time: 20:21:39
+ReaderThread-1 Seat No 1: 0 Seat No 2: 0 Seat No 3: 1 Seat No 4: 0 Seat No 5: 0
+-------------------------------------------------------------------------------
+
+Time: 20:21:39
+WriterThread-1 Tries to book the seat 5 successfully
+
+Time: 20:21:39
+WriterThread-2 Tries to book the seat 1 successfully
+
+Time: 20:21:39
+ReaderThread-2 Seat No 1: 0 Seat No 2: 0 Seat No 3: 1 Seat No 4: 0 Seat No 5: 1
+-------------------------------------------------------------------------------
+
+Time: 20:21:39
+ReaderThread-1 Seat No 1: 0 Seat No 2: 0 Seat No 3: 1 Seat No 4: 0 Seat No 5: 1
+-------------------------------------------------------------------------------
+
+Time: 20:21:39
+WriterThread-1 Could not booked seat number 3 since it has been already booked
+
+Time: 20:21:39
+ReaderThread-2 Seat No 1: 1 Seat No 2: 0 Seat No 3: 1 Seat No 4: 0 Seat No 5: 1
+-------------------------------------------------------------------------------
+
+Time: 20:21:39
+ReaderThread-1 Seat No 1: 1 Seat No 2: 0 Seat No 3: 1 Seat No 4: 0 Seat No 5: 1
+-------------------------------------------------------------------------------
+
+Time: 20:21:39
+WriterThread-2 Could not booked seat number 3 since it has been already booked
+
+Time: 20:21:39
+WriterThread-1 Could not booked seat number 5 since it has been already booked
+
+Time: 20:21:39
+ReaderThread-2 Seat No 1: 1 Seat No 2: 0 Seat No 3: 1 Seat No 4: 0 Seat No 5: 1
+-------------------------------------------------------------------------------
+
+Time: 20:21:39
+ReaderThread-1 Seat No 1: 1 Seat No 2: 0 Seat No 3: 1 Seat No 4: 0 Seat No 5: 1
+-------------------------------------------------------------------------------
+
+Time: 20:21:39
+ReaderThread-3 Seat No 1: 1 Seat No 2: 0 Seat No 3: 1 Seat No 4: 0 Seat No 5: 1
+-------------------------------------------------------------------------------
+
+Time: 20:21:39
+WriterThread-3 Could not booked seat number 3 since it has been already booked
+
+Time: 20:21:39
+WriterThread-2 Tries to book the seat 4 successfully
+
+Time: 20:21:39
+ReaderThread-2 Seat No 1: 1 Seat No 2: 0 Seat No 3: 1 Seat No 4: 1 Seat No 5: 1
+-------------------------------------------------------------------------------
+
+Time: 20:21:39
+WriterThread-1 Could not booked seat number 1 since it has been already booked
+
+Time: 20:21:39
+ReaderThread-3 Seat No 1: 1 Seat No 2: 0 Seat No 3: 1 Seat No 4: 1 Seat No 5: 1
+-------------------------------------------------------------------------------
+
+Time: 20:21:39
+WriterThread-3 Could not booked seat number 1 since it has been already booked
+
+Time: 20:21:39
+WriterThread-2 Could not booked seat number 5 since it has been already booked
+
+Time: 20:21:39
+ReaderThread-2 Seat No 1: 1 Seat No 2: 0 Seat No 3: 1 Seat No 4: 1 Seat No 5: 1
+-------------------------------------------------------------------------------
+
+Time: 20:21:39
+ReaderThread-3 Seat No 1: 1 Seat No 2: 0 Seat No 3: 1 Seat No 4: 1 Seat No 5: 1
+-------------------------------------------------------------------------------
+
+Time: 20:21:39
+WriterThread-3 Could not booked seat number 5 since it has been already booked
+
+Time: 20:21:39
+WriterThread-2 Could not booked seat number 5 since it has been already booked
+
+Time: 20:21:39
+ReaderThread-3 Seat No 1: 1 Seat No 2: 0 Seat No 3: 1 Seat No 4: 1 Seat No 5: 1
+-------------------------------------------------------------------------------
+
+Time: 20:21:39
+WriterThread-3 Could not booked seat number 3 since it has been already booked
+
+Time: 20:21:39
+ReaderThread-3 Seat No 1: 1 Seat No 2: 0 Seat No 3: 1 Seat No 4: 1 Seat No 5: 1
+-------------------------------------------------------------------------------
+
+Time: 20:21:39
+WriterThread-3 Could not booked seat number 1 since it has been already booked
+
