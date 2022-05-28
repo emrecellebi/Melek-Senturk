@@ -5,5 +5,5 @@ set JAR_PATH=../lib/sqlite-jdbc-3.7.2.jar;
 set CLASS_PATH=-cp ../bin;%JAR_PATH%
 REM set CLASS_PATH=-cp ../bin;
 
-REM %JAVA_8_HOME%\bin\java.exe %CLASS_PATH% com.emrecellebi.Console %*
-java.exe %CLASS_PATH% com.emrecellebi.Console %*
+REM %JAVA_8_HOME%\bin\java.exe %CLASS_PATH% com.meleksenturk.Console %*
+java.exe %CLASS_PATH% com.meleksenturk.Console %*

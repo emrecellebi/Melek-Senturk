@@ -1,4 +1,4 @@
-package com.emrecellebi;
+package com.meleksenturk;
 
 import java.io.File;
 
@@ -107,7 +107,6 @@ public class SQLiteConnection
 			ResultSet result = statement.executeQuery(sql);
 			while(result.next())
 			{
-				
 				data.add(result.getInt("Reservation"));
 			}
 		
