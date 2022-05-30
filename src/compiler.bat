@@ -8,5 +8,6 @@ REM set CLASS_PATH=-d ../bin
 REM %JAVA_8_HOME%\bin\javac.exe %CLASS_PATH% com/meleksenturk/Console.java
 REM %JAVA_8_HOME%\bin\jar.exe cfvm ../Melek-Senturk.jar META-INF/MANIFEST.MF -C ../bin/ .
 
-javac.exe %CLASS_PATH% com/meleksenturk/Console.java
+REM javac.exe %CLASS_PATH% com/meleksenturk/Console.java
+javac.exe %CLASS_PATH% com/meleksenturk/Window.java
 jar.exe cfvm ../Melek-Senturk.jar META-INF/MANIFEST.MF -C ../bin/ .
